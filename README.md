@@ -1,5 +1,8 @@
 # tclean 🧹
 
+![Pull Requests are welcome](https://img.shields.io/badge/PRs%20are-welcome-green?style=flat-square)
+![Coded by BlankHtmlPage and contributors](https://img.shields.io/badge/%3C%2F%3E%20by%20BlankHtmlPage-and%20contributors-orange?style=flat-square)
+
 **Termux Deep Cleaner**
 
 `tclean` is a lightweight Bash script designed to free up storage space in Termux by removing cached data, unused dependencies, and temporary files. It intelligently detects installed package managers (like pip, npm, go) and cleans them only if they exist.
