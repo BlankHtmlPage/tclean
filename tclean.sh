@@ -14,7 +14,7 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 # Termux Deep Cleaner
-# Version: 1.0.0
+# Version: 1.0.1
 
 # --- COLORS ---
 RED='\033[0;31m'
