@@ -69,7 +69,7 @@ fi
 # Yarn
 if command -v yarn &> /dev/null; then
     log "🧶 Cleaning Yarn cache..."
-    echo y || yarn cache clean &> /dev/null
+    echo y | yarn cache clean &> /dev/null
     success "Yarn cache cleared."
 fi
 
